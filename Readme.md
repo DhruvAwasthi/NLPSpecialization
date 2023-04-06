@@ -8,3 +8,5 @@
  **Note**: I'm currently enrolled in this specialization, and will update solutions as I keep moving through it.
 
  **Suggestions are always welcome, thank you!**
+ 
+ **Edit:** There are not quizzes in the specializaiton, that's why they are not here in the repository.
